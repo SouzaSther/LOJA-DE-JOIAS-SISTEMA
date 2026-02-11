@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Colar de Pérolas Aurora",
+      "category": "Colares",
+      "price": 1299.90,
+      "description": "Colar elegante com pérolas naturais cultivadas, fecho em ouro 18k. Comprimento ajustável de 40 a 45cm. Peça atemporal que combina sofisticação e delicadeza.",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800",
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800",
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800"
+      ],
+      "featured": true,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Anel Solitário Diamante",
+      "category": "Anéis",
+      "price": 8999.00,
+      "description": "Anel solitário em ouro branco 18k com diamante de 0.5 quilates, lapidação brilhante. Certificado de autenticidade incluso. Perfeito para pedidos de casamento.",
+      "images": [
+        "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800",
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800"
+      ],
+      "featured": true,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Brincos de Esmeralda",
+      "category": "Brincos",
+      "price": 3499.90,
+      "description": "Brincos em ouro amarelo 18k com esmeraldas colombianas naturais e detalhes em diamantes. Design clássico e atemporal.",
+      "images": [
+        "https://images.unsplash.com/photo-1725033797039-9d7db36e96f2?w=800",
+        "https://images.unsplash.com/photo-1731929315875-3ab60c006577?w=800",
+        "https://images.unsplash.com/photo-1764591576264-ad2e0e4e793c?w=800"
+      ],
+      "featured": true,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Pulseira Riviera Deluxe",
+      "category": "Pulseiras",
+      "price": 5799.00,
+      "description": "Pulseira riviera em ouro branco 18k com zircônias cravadas. Fecho de segurança. Comprimento: 18cm. Elegância e brilho garantidos.",
+      "images": [
+        "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800",
+        "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800"
+      ],
+      "featured": true,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Colar Corrente Veneziana",
+      "category": "Colares",
+      "price": 899.90,
+      "description": "Corrente veneziana em ouro amarelo 18k maciço. Comprimento: 50cm. Design versátil e resistente, perfeita para uso diário.",
+      "images": [
+        "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=800"
+      ],
+      "featured": false,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Anel Trilogy Safira",
+      "category": "Anéis",
+      "price": 4299.00,
+      "description": "Anel trilogy em ouro branco 18k com safira azul central e diamantes laterais. Simboliza passado, presente e futuro.",
+      "images": [
+        "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800",
+        "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800"
+      ],
+      "featured": false,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Brincos Argola Clássica",
+      "category": "Brincos",
+      "price": 649.90,
+      "description": "Brincos argola em ouro amarelo 18k. Tamanho médio (2,5cm). Fecho de pressão seguro. Clássico que nunca sai de moda.",
+      "images": [
+        "https://images.unsplash.com/photo-1615854430736-c9fae5a95083?w=800"
+      ],
+      "featured": false,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Pulseira Cartier Love",
+      "category": "Pulseiras",
+      "price": 3899.00,
+      "description": "Pulseira estilo cartier em ouro rosé 18k com detalhes de parafusos. Acompanha chave decorativa. Símbolo de amor eterno.",
+      "images": [
+        "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800"
+      ],
+      "featured": false,
+      "inStock": false
+    },
+    {
+      "id": 9,
+      "name": "Pingente Coração Rubi",
+      "category": "Pingentes",
+      "price": 1899.00,
+      "description": "Pingente em formato de coração com rubi natural em ouro amarelo 18k. Corrente não inclusa. Romântico e delicado.",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800"
+      ],
+      "featured": false,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Aliança Casamento Ouro",
+      "category": "Alianças",
+      "price": 1599.00,
+      "description": "Par de alianças em ouro amarelo 18k, largura 5mm, acabamento fosco e polido. Gravação interna personalizada inclusa.",
+      "images": [
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800"
+      ],
+      "featured": false,
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "Colar Gargantilha Luxo",
+      "category": "Colares",
+      "price": 2299.00,
+      "description": "Gargantilha em ouro branco 18k com pingente de diamante. Comprimento: 38cm. Sofisticação para ocasiões especiais.",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800",
+        "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=800"
+      ],
+      "featured": false,
+      "inStock": true
+    },
+    {
+      "id": 12,
+      "name": "Anel Aparador Deluxe",
+      "category": "Anéis",
+      "price": 2799.00,
+      "description": "Anel aparador em ouro branco 18k com diamantes cravados. Complemento perfeito para solitários. Design moderno e elegante.",
+      "images": [
+        "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800"
+      ],
+      "featured": false,
+      "inStock": true
+    }
+  ],
+  "categories": [
+    "Todos",
+    "Anéis",
+    "Brincos",
+    "Colares",
+    "Pulseiras",
+    "Pingentes",
+    "Alianças"
+  ]
+}
